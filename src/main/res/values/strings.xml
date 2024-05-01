@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_product_list">ProductActivity</string>
+    <string name="itau_corretora">Itáu Corretora</string>
+    <string name="my_investments">Meus investimentos</string>
+    <string name="products">Produtos</string>
+    <string name="my_wallet">Minha carteira</string>
+    <string name="failed_to_load_assets">Falha ao carregar ativos: %1$s</string>
+</resources>
